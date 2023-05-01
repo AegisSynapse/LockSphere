@@ -20,7 +20,7 @@ The LockSphere File Tool is a powerful and versatile utility for handling files 
   
   
  # Encryption Methods: Fernet vs ChaCha20-Poly1305
-The Sphere File Tool supports two encryption methods: Fernet and ChaCha20-Poly1305. Here's a brief overview of their strengths and weaknesses:
+The LockSphere File Tool supports two encryption methods: Fernet and ChaCha20-Poly1305. Here's a brief overview of their strengths and weaknesses:
 
 Fernet
   - Fernet is a high-level symmetric encryption recipe provided by the Python cryptography library. It uses AES-128 in CBC mode with PKCS7 padding for encryption and HMAC-SHA256 for authentication.
@@ -63,7 +63,7 @@ Consider these factors when choosing the appropriate encryption method for your 
 
 
 # Comparison to Similar Products
-  Compared to other file management tools, the Sphere File Tool offers unique features, such as:
+  Compared to other file management tools, the LockSphere File Tool offers unique features, such as:
   - A custom .sphere file extension for added security and obscurity
   - Two encryption methods (Fernet and ChaCha20-Poly1305) to choose from
    -Keyword search functionality to quickly locate information within files
