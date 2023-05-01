@@ -9,7 +9,9 @@ The LockSphere File Tool is a powerful and versatile utility for handling files 
   - Keyword search within files
   - View file metadata
   - Batch process files for encryption, decryption, keyword search, and metadata viewing
-  - Possible Use Cases
+  
+  
+ # Possible Use Cases
   - Securely store sensitive files by encrypting them with strong encryption algorithms
   - Protect confidential information by making files unreadable without the correct password
   - Search for specific keywords within multiple files
