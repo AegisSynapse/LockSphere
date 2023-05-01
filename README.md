@@ -22,7 +22,7 @@ LockSphere is a powerful and versatile utility for handling files with a custom 
  # Encryption Methods: Fernet vs ChaCha20-Poly1305
 The LockSphere File Tool supports two encryption methods: Fernet and ChaCha20-Poly1305. Here's a brief overview of their strengths and weaknesses:
 
-Fernet
+# Fernet
   - Fernet is a high-level symmetric encryption recipe provided by the Python cryptography library. It uses AES-128 in CBC mode with PKCS7 padding for encryption and HMAC-SHA256 for authentication.
 
 # Strengths:
