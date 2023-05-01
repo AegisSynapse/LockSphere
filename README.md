@@ -66,9 +66,9 @@ Consider these factors when choosing the appropriate encryption method for your 
   Compared to other file management tools, the LockSphere File Tool offers unique features, such as:
   - A custom .sphere file extension for added security and obscurity
   - Two encryption methods (Fernet and ChaCha20-Poly1305) to choose from
-   -Keyword search functionality to quickly locate information within files
-   - File metadata viewing for a better understanding of file properties
-   - Batch processing capabilities for increased efficiency
+  - Keyword search functionality to quickly locate information within files
+  - File metadata viewing for a better understanding of file properties
+  - Batch processing capabilities for increased efficiency
 
 
 
