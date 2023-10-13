@@ -1,5 +1,5 @@
 # LockSphere
-LockSphere is a powerful and versatile utility for handling files with a custom .sphere extension. This tool provides encryption/decryption, keyword search, file metadata viewing, and batch processing capabilities.
+LockSphere is a powerful and versatile utility for handling files with a custom .sphere extension. This tool provides encryption/decryption, keyword search, file metadata viewing, & batch processing capabilities.
 
 # Features
   - Convert files to a custom .sphere extension
