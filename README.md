@@ -70,6 +70,8 @@ Consider these factors when choosing the appropriate encryption method for your 
   - File metadata viewing for a better understanding of file properties
   - Batch processing capabilities for increased efficiency
 
+# NOTE CODE IS AVAILABLE UPON REQUEST
+
 
 
 # License
